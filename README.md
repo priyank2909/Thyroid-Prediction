@@ -6,7 +6,8 @@
 3) Modeling Techniques
 4) Evaluation Metrics
 5) Installation
-6) Contributing
+6) Usage
+7) Contributing
 
 ## 1) Overview 
 
@@ -38,6 +39,11 @@ The Thyroid Disease Prediction Project aims to develop a predictive model that a
 - Copy code
 
         pip install numpy pandas matplotlib seaborn
+
+## 7) Usage
+- Use this input data:
+  
+        https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/thyroid0387.data
 
 ## 6) Contributing
 
