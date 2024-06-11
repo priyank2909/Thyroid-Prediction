@@ -32,7 +32,7 @@ The Thyroid Disease Prediction Project aims to develop a predictive model that a
 1) Clone the repository:
 - Copy code
 
-  		git clone https://github.com/your-username/thyroid-disease-prediction.git
+  		git clone (https://github.com/priyank2909/Thyroid-Prediction.git)
   
 2) Install the required dependencies:
 - Copy code
